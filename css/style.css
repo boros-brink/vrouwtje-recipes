@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+h1,
+h2,
+h3 {
+    color:rgb(185, 150, 34);
+}
+
+a {
+    color: white;
+    font-size: large;
+}
